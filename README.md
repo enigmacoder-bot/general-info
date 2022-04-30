@@ -19,6 +19,7 @@
 <li>Leetcode Patterns https://seanprashad.com/leetcode-patterns/</li>
 <li>Leetcode blind 75 https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU</li>
 <li>https://neetcode.io/</li>
+<li>Pramp Free Mock Interview https://www.pramp.com/</li>
 </ul>
 <h2>Computer Science and Programming Youtube Channels</h2>
 <ul>
@@ -52,7 +53,7 @@
    <li>flexbox zombie game https://mastery.games/flexboxzombies/</li>
    <li>wes bos grid course https://cssgrid.io/</li>
    <li>wes bos flexbox course  https://flexbox.io/</li>
-   </ul>
+ </ul>
    
    
    
