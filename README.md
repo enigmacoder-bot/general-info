@@ -1,4 +1,4 @@
-# FREE PROGRAMMING COURSES
+# FREE PROGRAMMING RESOURCES
 <h2>Web Developement</h2>
 <ul>
 <li>Odin Project https://www.theodinproject.com/</li>
@@ -54,6 +54,12 @@
    <li>wes bos grid course https://cssgrid.io/</li>
    <li>wes bos flexbox course  https://flexbox.io/</li>
  </ul>
+ 
+<h2>Job Searching Websites </h2>
+ <ul>
+  <li>AngelList https://angel.co/</li>
+</ul>
+  
    
    
    
