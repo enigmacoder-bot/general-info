@@ -11,7 +11,9 @@
 <li>MOOC2022 Python https://programming-22.mooc.fi/</li>
 <li>MOOC Java https://java-programming.mooc.fi/</li>
 <li>Python for Everyone https://www.py4e.com/</li>
- <li>Problem solving with python online book https://runestone.academy/ns/books/published/pythonds/index.html</li>
+<li>Problem solving with python online book https://runestone.academy/ns/books/published/pythonds/index.html</li>
+<li>The Missing Semester https://missing.csail.mit.edu/</li>
+
 </ul>
 <h2>Coding Interview Related</h2>
 <ul>
