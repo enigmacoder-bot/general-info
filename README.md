@@ -61,7 +61,10 @@
  <ul>
   <li>AngelList https://angel.co/</li>
 </ul>
-  
+<h2>Free Certifications</h2>
+<ul>
+  <li>https://www.freecodecamp.org/news/free-certificates/</li>
+</ul>
    
    
    
